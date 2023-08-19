@@ -25,3 +25,9 @@
 
 - 기존 그래프가 머지가 되는것이 아닌 Rebase 형태로 붙음
 - 좀더 선형적인 그래프가 됨
+
+## Merge vs Rebasing
+
+![mer-to-rebase](./public/mer-to-rebase.png)
+
+- 사진을 보면 좀더 이해가 쉬울듯..
