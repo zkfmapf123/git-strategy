@@ -51,6 +51,10 @@
     git rebase feature/a master
 ```
 
+## Conclusion
+
+- Rebase 폼 미쳤다이
+
 - 사진을 보면 좀더 이해가 쉬울듯..
 
 ## Reference
