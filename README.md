@@ -52,3 +52,9 @@
 ```
 
 - 사진을 보면 좀더 이해가 쉬울듯..
+
+## Reference
+
+- Git Extensions (Git Graph) => 무조건 까셈
+
+- Git Rebase Practice Site (https://learngitbranching.js.org/?locale=ko)
