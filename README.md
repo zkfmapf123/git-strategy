@@ -20,3 +20,8 @@
 - feature/rebase 에서 작업 후
 - master 브랜치에서 rebase 함
 - 선형적인 그래프가 나옴
+
+![rebase-2](./public/rebase-2.png)
+
+- 기존 그래프가 머지가 되는것이 아닌 Rebase 형태로 붙음
+- 좀더 선형적인 그래프가 됨
