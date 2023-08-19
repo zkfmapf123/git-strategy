@@ -30,4 +30,25 @@
 
 ![mer-to-rebase](./public/mer-to-rebase.png)
 
+```
+    // branch 작업
+    git switch master
+    git switch -C feature/a
+
+    // ... 여러가지 commit
+
+    git swtich master
+    git switch -C feature/b
+
+    // ... 여러가지 commit
+
+    // rebase 작업
+    git rebase feature/b feature/a (feature/b에 feature/a 줄세우기)
+    // current branch => feature/a
+    // conlictf를 수정하면서 rebase --continue로 작업해야 함
+
+    // master를 rebase로 fast-forward로 수정하기
+    git rebase feature/a master
+```
+
 - 사진을 보면 좀더 이해가 쉬울듯..
